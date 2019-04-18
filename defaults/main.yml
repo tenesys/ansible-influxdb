@@ -1,6 +1,6 @@
 ---
 # defaults file for influxdb
-influxdb_ver: "1.2.0"
+influxdb_ver: "1.7.6"
 influxdb_md5_checksum: "f79959802930c7e9d6e81ffd366c0629"
 influxdb_arch: "amd64"
 influxdb_dl_url: "https://dl.influxdata.com/influxdb/releases/influxdb_{{  influxdb_ver  }}_{{  influxdb_arch  }}.deb"
